@@ -1,0 +1,11 @@
+﻿  二维数组矩阵.cpp
+c:\users\黄铭晖\documents\visual studio 2017\projects\二维数组矩阵\二维数组矩阵\二维数组矩阵.cpp(7): warning C4305: “初始化”: 从“__int64”到“int”截断
+c:\users\黄铭晖\documents\visual studio 2017\projects\二维数组矩阵\二维数组矩阵\二维数组矩阵.cpp(7): warning C4309: “初始化”: 截断常量值
+c:\users\黄铭晖\documents\visual studio 2017\projects\二维数组矩阵\二维数组矩阵\二维数组矩阵.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\黄铭晖\documents\visual studio 2017\projects\二维数组矩阵\二维数组矩阵\二维数组矩阵.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\黄铭晖\documents\visual studio 2017\projects\二维数组矩阵\二维数组矩阵\二维数组矩阵.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  二维数组矩阵.vcxproj -> C:\Users\黄铭晖\documents\visual studio 2017\Projects\二维数组矩阵\Debug\二维数组矩阵.exe
+  二维数组矩阵.vcxproj -> C:\Users\黄铭晖\documents\visual studio 2017\Projects\二维数组矩阵\Debug\二维数组矩阵.pdb (Partial PDB)
