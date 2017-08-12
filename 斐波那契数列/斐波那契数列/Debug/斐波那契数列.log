@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  斐波那契数列.cpp
+c:\users\黄铭晖\documents\visual studio 2017\projects\斐波那契数列\斐波那契数列\斐波那契数列.cpp(19): warning C4101: “n”: 未引用的局部变量
+c:\users\黄铭晖\documents\visual studio 2017\projects\斐波那契数列\斐波那契数列\斐波那契数列.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+  斐波那契数列.vcxproj -> C:\Users\黄铭晖\Documents\Visual Studio 2017\Projects\斐波那契数列\Debug\斐波那契数列.exe
+  斐波那契数列.vcxproj -> C:\Users\黄铭晖\Documents\Visual Studio 2017\Projects\斐波那契数列\Debug\斐波那契数列.pdb (Partial PDB)
